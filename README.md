@@ -43,7 +43,7 @@ This repository serves as the central data hub for the **Irekani Environmental H
 
 ---
 
-### **2. Machine Learning Subset (2023-2024)**
+### **2. Machine Learning Subset (2021-2022)**
 
 **Size**: 127 participants (subset excluding "unknown" health perception responses)
 **Use Case**: Health risk prediction modeling
@@ -53,7 +53,7 @@ This subset filters the complete dataset to include only participants who provid
 
 **Related Publication**: Machine learning prediction of health problems from agrochemical exposure (Submitted, 2025)
 
-**Documentation**: See [datasets/2023-2024_ml_subset/](datasets/2021-2022_ml_subset/)
+**Documentation**: See [datasets/2021-2022_ml_subset/](datasets/2021-2022_ml_subset/)
 
 ---
 
