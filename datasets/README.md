@@ -6,13 +6,13 @@ This directory contains links to all datasets published as part of the Irekani E
 
 ## 📊 Available Datasets
 
-### 1. Complete Dataset (2023-2024)
+### 1. Complete Dataset (2021-2022)
 
 **Full Name**: Irekani Project - Agricultural Practices, Agrochemical Exposure, and Environmental Quality in Rural Communities of Michoacán, Mexico
 
 **Sample Size**: 288 participants
 **Variables**: 181
-**Collection Period**: 2023-2024
+**Collection Period**: 2021-2022
 **Geographic Coverage**: 9 municipalities, 2 lake basins
 
 **Zenodo DOI**: [pending - will be added upon publication]
@@ -25,11 +25,11 @@ This directory contains links to all datasets published as part of the Irekani E
 
 **Documentation**:
 - [Data Dictionary](2023-2024_complete/data_dictionary.md)
-- [README](2023-2024_complete/README.md)
+- [README](2021-2022_complete/README.md)
 
 ---
 
-### 2. Machine Learning Subset (2023-2024)
+### 2. Machine Learning Subset (2021-2022)
 
 **Full Name**: Irekani Project - ML Subset for Health Risk Prediction
 
@@ -48,7 +48,7 @@ This directory contains links to all datasets published as part of the Irekani E
 **Filtering Criteria**: Includes only participants who provided definitive responses ("sí" or "no") to the question about perceived health problems related to agrochemical use. Excludes 161 participants who responded "desconocido" (unknown).
 
 **Documentation**:
-- [Data Dictionary](2023-2024_ml_subset/README.md)
+- [Data Dictionary](2021-2022_ml_subset/README.md)
 - Refer to complete dataset documentation for variable definitions
 
 **Related Publication**:
