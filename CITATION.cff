@@ -1,0 +1,108 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Irekani Project: Agricultural Practices, Agrochemical Exposure, and Environmental Quality in Rural Michoacán, Mexico"
+version: 1.0
+date-released: 2025-01-01
+abstract: |
+  This dataset documents agricultural practices, agrochemical exposure, biodiversity changes, and environmental quality perceptions in rural communities across two lake basins in Michoacán, Mexico. Collected through a Community-Based Participatory Research (Citizen Science) approach during 2023-2024, the dataset includes 288 agricultural workers from 9 municipalities across the Ciénega de Chapala and Pátzcuaro-Zirahuén basins.
+
+  The dataset contains 181 variables covering: geographic information, environmental quality perceptions, biodiversity loss records, agricultural practices, sociodemographic characteristics, agrochemical safety practices, application patterns, pest control targets, 73 specific agrochemical compounds used, and health perceptions.
+
+  All data has been carefully anonymized to protect participant privacy (re-identification risk <1%). Geographic precision is limited to municipal level, with no personally identifiable information included.
+
+authors:
+  - family-names: Yudico-Anaya
+    given-names: Luis José
+    orcid: "https://orcid.org/0000-0002-9304-4304"
+    email: ljyudico@ucemich.edu.mx
+    affiliation: "Universidad de La Ciénega del Estado de Michoacán de Ocampo"
+
+  - family-names: Martínez-del-Río
+    given-names: Ana Elisa
+    orcid: "https://orcid.org/0000-0001-7032-0796"
+    email: aemartinez@ucemich.edu.mx
+    affiliation: "Universidad de La Ciénega del Estado de Michoacán de Ocampo"
+
+contact:
+  - family-names: Yudico-Anaya
+    given-names: Luis José
+    email: ljyudico@ucemich.edu.mx
+
+  - family-names: Martínez-del-Río
+    given-names: Ana Elisa
+    email: aemartinez@ucemich.edu.mx
+
+keywords:
+  - agrochemicals
+  - pesticides
+  - glyphosate
+  - agricultural practices
+  - environmental health
+  - citizen science
+  - community-based participatory research
+  - biodiversity loss
+  - rural health
+  - Mexico
+  - Michoacán
+  - Chapala
+  - Pátzcuaro
+
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+
+repository-code: "https://github.com/irekani-environmental-health/irekani-data"
+url: "https://github.com/irekani-environmental-health/irekani-data"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXX"
+    description: "Zenodo DOI (pending publication)"
+
+references:
+  - type: article
+    title: "Agrotóxicos y percepción de riesgos, una experiencia de Ciencia Ciudadana en las cuencas Lerma-Chapala y Pátzcuaro-Zirahuén, Michoacán, México"
+    authors:
+      - family-names: Martínez-del-Río
+        given-names: Ana Elisa
+      - family-names: Iglesias-Mancera
+        given-names: Emma
+      - family-names: Navia-Antezana
+        given-names: Jaime
+      - family-names: Yudico-Anaya
+        given-names: Luis José
+      - family-names: Rodríguez-Valencia
+        given-names: Antonio
+    journal: "Trenzar. Revista de Educación Popular, Pedagogía Crítica e Investigación Militante"
+    year: 2023
+    issue: 9
+    start: 93
+    end: 106
+    issn: "2452-4301"
+
+  - type: article
+    title: "Machine learning prediction of health problems from agrochemical exposure in agricultural workers"
+    authors:
+      - family-names: Yudico-Anaya
+        given-names: Luis José
+      - family-names: Martínez-del-Río
+        given-names: Ana Elisa
+    year: 2025
+    status: submitted
+
+preferred-citation:
+  type: dataset
+  title: "Irekani Project: Agricultural Practices, Agrochemical Exposure, and Environmental Quality in Rural Michoacán, Mexico"
+  authors:
+    - family-names: Yudico-Anaya
+      given-names: Luis José
+      orcid: "https://orcid.org/0000-0002-9304-4304"
+    - family-names: Martínez-del-Río
+      given-names: Ana Elisa
+      orcid: "https://orcid.org/0000-0001-7032-0796"
+  year: 2025
+  version: "1.0"
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.XXXXXX"
+  url: "https://doi.org/10.5281/zenodo.XXXXXX"
+  notes: "Update DOI after Zenodo publication"
