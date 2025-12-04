@@ -18,12 +18,12 @@ This repository serves as the central data hub for the **Irekani Environmental H
 
 ## 📊 Available Datasets
 
-### **1. Complete Dataset (2023-2024)**
+### **1. Complete Dataset (2021-2022)**
 
 **Size**: 288 participants
 **Variables**: 181
 **Geographic Coverage**: 9 municipalities across 2 lake basins
-**Collection Period**: 2023-2024
+**Collection Period**: 2021-2022
 
 **Zenodo Repository**: [DOI: pending]
 
@@ -53,7 +53,7 @@ This subset filters the complete dataset to include only participants who provid
 
 **Related Publication**: Machine learning prediction of health problems from agrochemical exposure (Submitted, 2025)
 
-**Documentation**: See [datasets/2023-2024_ml_subset/](datasets/2023-2024_ml_subset/)
+**Documentation**: See [datasets/2023-2024_ml_subset/](datasets/2021-2022_ml_subset/)
 
 ---
 
@@ -147,7 +147,7 @@ This repository contains:
 ## 📖 Data Dictionary
 
 A comprehensive data dictionary with all 181 variables is available in:
-- [datasets/2023-2024_complete/data_dictionary.md](datasets/2023-2024_complete/data_dictionary.md)
+- [datasets/2021-2022_complete/data_dictionary.md](datasets/2021-2022_complete/data_dictionary.md)
 
 **Variable Categories**:
 1. Geographic Information
