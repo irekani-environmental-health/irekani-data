@@ -39,7 +39,7 @@ This repository serves as the central data hub for the **Irekani Environmental H
 - Agrochemical compounds used (73 variables)
 - Health perceptions and social services (3 variables)
 
-**Documentation**: See [datasets/2023-2024_complete/](datasets/2023-2024_complete/)
+**Documentation**: See [datasets/2023-2024_complete/](datasets/2021-2022_complete/)
 
 ---
 
