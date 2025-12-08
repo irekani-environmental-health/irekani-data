@@ -1,0 +1,39 @@
+title: Irekani Environmental Health Project
+description: Agricultural Practices, Agrochemical Exposure, and Environmental Quality Dataset
+theme: jekyll-theme-cayman
+show_downloads: true
+
+# GitHub repository information
+github:
+  repository_url: https://github.com/irekani-environmental-health/irekani-data
+  repository_name: irekani-data
+  owner_name: irekani-environmental-health
+
+# Google Analytics (optional - add your tracking ID)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Additional configuration
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO settings
+author:
+  name: Luis José Yudico-Anaya & Ana Elisa Martínez-del-Río
+  email: ljyudico@ucemich.edu.mx
+
+twitter:
+  card: summary_large_image
+
+social:
+  name: Irekani Environmental Health
+  links:
+    - https://github.com/irekani-environmental-health
+
+# Exclude from processing
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
